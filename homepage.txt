@@ -1,0 +1,2 @@
+Hello git bash this is my second scm class
+
